@@ -1,3 +1,5 @@
+## NAME:SUJITHRA K
+## REGISTER NUMBER:212223040212
 ## SGD-Regressor-for-Multivariate-Linear-Regression
 
 ## AIM:
